@@ -1,7 +1,7 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <template>
   <div
-    class="flex gap-[1.5rem] justify-center items-center box-border pl-24 pr-8 flex-col md:flex-row"
+    class="flex gap-[1.5rem] justify-center items-center box-border md:pl-24 pr-8 flex-col md:flex-row"
   >
     <div class="flex flex-col gap-[1rem]">
       <iframe
