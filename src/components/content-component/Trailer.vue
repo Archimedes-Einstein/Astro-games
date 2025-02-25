@@ -1,19 +1,19 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <template>
   <div
-    class="flex gap-[1.5rem] justify-center items-center box-border md:pl-24 pr-8 flex-col md:flex-row"
+    class="flex gap-[1.5rem] justify-center items-center box-border md:pl-24 md:pr-8 flex-col md:flex-row"
   >
-    <div class="flex flex-col gap-[1rem]">
+    <div class="flex flex-col gap-[1rem] justify-center items-center">
       <iframe
         controls
         autoplay
         src="https://youtube.com/embed/Zbq7BnsQhrw"
-        class="h-[20rem] md:w-[38rem] rounded-lg"
+        class="h-[20rem] w-[24rem] md:w-[38rem] rounded-lg"
       >
       </iframe>
       <div class="flex justify-start items gap-[0.5rem] flex-col">
         <h2 class="text-[2rem]">Ghost of Tsushima</h2>
-        <p class="flex w-[38rem] h-[20rem]">
+        <p class="flex w-[24rem] h-[20rem] md:w-[38rem]">
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero cumque cum quibusdam ea
           architecto aspernatur, ex porro nesciunt sequi fugiat neque dolorem rerum amet quaerat.
           Itaque voluptate ducimus facilis deleniti! Id sunt, corporis autem magnam quaerat eius!
@@ -35,7 +35,7 @@
       </iframe>
 
       <h2 class="text-[2rem]">Guardians of the Galaxy</h2>
-      <p class="flex w-[38rem] h-[20rem]">
+      <p class="flex md:w-[38rem] h-[20rem] w-[24rem]">
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel tempora eligendi ipsa magni
         repellendus doloribus, dolorum facilis porro, quidem, repellat ipsam? Necessitatibus officia
         quibusdam voluptatibus libero nemo rerum mollitia non! Pariatur minus, iusto quos excepturi,

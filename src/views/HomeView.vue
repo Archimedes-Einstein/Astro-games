@@ -5,7 +5,7 @@ import ContentBody from '@/components/content-component/ContentBody.vue'
 </script>
 
 <template>
-  <main class="w-full h-full">
+  <main class="w-full h-full bg-[#262626] mb-[0] pb-[0]">
     <header class="w-full h-full">
       <Navbar />
     </header>
